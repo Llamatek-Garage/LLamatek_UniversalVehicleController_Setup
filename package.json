@@ -4,6 +4,7 @@
   "displayName": "LLamatek Universal Car Controller Integration",
   "description": "Editor integration and automated setup for LLamatek vehicle packs with Universal Car Controller.",
   "unity": "2022.3",
+  "license": "MIT",
   "author": {
     "name": "LLamatek"
   }
